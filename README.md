@@ -1,6 +1,6 @@
 # SimpleCharts
 
-This is a Hard Fork from [Microcharts](https://github.com/aloisdeniel/Microcharts).
+This is a HardForm from [Microcharts](https://github.com/aloisdeniel/Microcharts).
 
 I have plans on making this super easy to use in Xamarin and Xamarin.Forms which will require a lot of major changes.
 

@@ -5,6 +5,8 @@ using SimpleChartsSampleForms.Models;
 using System.Collections.ObjectModel;
 using System.Threading.Tasks;
 using System.Collections.Generic;
+using System.Collections.Specialized;
+
 namespace SimpleChartsSampleForms.ViewModels
 {
 	public class GraphsViewModel : BaseViewModel
